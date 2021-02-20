@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IDemetrus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android developing
+- 🌱 I’m currently learning android coroutines flow
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
 <!---
-IDemetrus/IDemetrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
